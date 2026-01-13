@@ -29,10 +29,10 @@ The game runs in the terminal and demonstrates core AI decision-making concepts.
 
 ## 🎯 Game Rules
 
-Player: X
-AI: O
-First to get 3 in a row wins
-If the board fills without a winner → Draw
+- Player: X
+- AI: O
+- First to get 3 in a row wins
+- If the board fills without a winner → Draw
 
 ##  🚀 Future Improvements
 
