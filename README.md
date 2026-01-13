@@ -25,7 +25,7 @@ The game runs in the terminal and demonstrates core AI decision-making concepts.
 - Python 3.x installed
 2. Run the Python file:
    ```bash
-   python tic_tac_toe.py
+   python tictactoe.py
 
 ##  Game Rules
 
