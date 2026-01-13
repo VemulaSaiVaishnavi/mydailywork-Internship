@@ -1,4 +1,4 @@
-# mydailywork-Internship# 🎮 AI Tic Tac Toe Game (Python)
+# 🎮 AI Tic Tac Toe Game (Python)
 
 A Python-based Tic Tac Toe game where a human player competes against an unbeatable AI using the Minimax algorithm.
 The game runs in the terminal and demonstrates core AI decision-making concepts.
